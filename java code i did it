@@ -1,3 +1,9 @@
+/*
+        Swap Numbers Java Example
+        This Swap Numbers Java Example shows how to
+        swap value of two numbers using java.
+*/
+ 
 public class SwapElementsExample {
  
         public static void main(String[] args) {
@@ -25,3 +31,13 @@ public class SwapElementsExample {
                
         }
 }
+ 
+/*
+Output of Swap Numbers example would be
+Before Swapping
+Value of num1 is :10
+Value of num2 is :20
+After Swapping
+Value of num1 is :20
+Value of num2 is :10
+*
